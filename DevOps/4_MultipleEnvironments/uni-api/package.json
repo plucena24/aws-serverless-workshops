@@ -11,7 +11,7 @@
     "postinstall:test": "cd int-test && npm install"
   },
   "devDependencies": {
-    "mocha": "^4.0.1",
+    "mocha": "^10.2.0",
     "proxyquire": "^1.8.0",
     "aws-xray-sdk": "^1.1.6"
   }
